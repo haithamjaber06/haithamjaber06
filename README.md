@@ -63,6 +63,4 @@ My workflow follows the same mindset: organized, intentional, and constantly imp
 
 ---
 
-<p align="center">
-  <sub>🖤 Inspired by Notion’s calm aesthetic • Built with Markdown • Last updated Oct 2025</sub>
-</p>
+
