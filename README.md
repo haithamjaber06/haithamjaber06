@@ -33,7 +33,7 @@ My philosophy:
 
 ### 🚀 Current Focus
 
-- 📱 Learning the fundamentals of **mobile app development**
+- 📱 Learning the fundamentals of **full stack development**
 - 🎮 Exploring **game engines** (Unity, Godot, Unreal)
 - 🧠 Building side projects to grow my portfolio
 - 📚 Sharpening my programming & problem-solving skills
